@@ -1,2 +1,1 @@
-# multibranch-pipeline
-multibranch-pipeline
+# multibranch-sample-app
